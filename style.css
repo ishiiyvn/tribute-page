@@ -1,7 +1,35 @@
 body{
     font-family: monospace;
-    background-color: rgba(200, 236, 224, 0.602);
+    font-size: 16px;
+    background-color: rgb(200, 255, 252);
+    text-align: center;
+    color: rgb(71, 71, 71);
 }
-h1 {
-    color: rgb(77, 76, 76);
+
+#img-caption{
+    font-size:14px;
+}
+
+p{
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 30px;
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
 }
